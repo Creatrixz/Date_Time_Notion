@@ -28,9 +28,7 @@
     if (hour > 12) hour -= 12;
 
     var showDate = weekdayNames[weekday] + ", " + monthNames[month] + " " + day + ", " + year;
-
-    var showTime = hour + ":" + minutes + ":" + seconds + ampm;
-    
+   
     var color = monthColors[month];
 
     document.getElementById('date').innerHTML = showDate;
