@@ -2,19 +2,19 @@ rehtml,
 body {
   height: 100%;
   width: 100%;
-  background: #CCCCCC;
+  background: #1D1E22;
   }
 
 .wrapper {
   position: absolute;
-  left: 50px;
-  top: 50px;
-  right:50px;
-  Bottom:50px;
+  left: 30px;
+  top: 30px;
+  right:30px;
+  Bottom:30px;
 }
 
 #date {
-  color: #1D1E22;
+  color: #CCCCCC;
   text-align: center;
   font-size: 32px;
     }
