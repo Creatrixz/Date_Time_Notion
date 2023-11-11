@@ -1,4 +1,4 @@
-html,
+rehtml,
 body {
   height: 100%;
   width: 100%;
@@ -7,10 +7,10 @@ body {
 
 .wrapper {
   position: absolute;
-  top: 5%;
-  left: 25%;
-  right: 25%;
-  bottom:10%;
+  left: 50px;
+  top: 50px;
+  right:50px;
+  Bottom:50px;
 }
 
 #date {
