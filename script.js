@@ -27,7 +27,7 @@
 
     if (hour > 12) hour -= 12;
 
-    var showDate = weekdayNames[weekday] + ", " + monthNames[month] + " " + day + ", " + year;
+    var showDate = monthNames[month] + " " + day + ", " + year;
    
     var color = monthColors[month];
 
